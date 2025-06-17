@@ -15,8 +15,11 @@ A weather app built using React that fetches and displays weather data using Ope
 - Displays temperature, humidity, wind speed
 - Clean and simple UI
 
-## Screenshots
-./screenshots/Screenshot 2025-06-17 223405.png
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./screenshots/home-page.png)
+
 
 
 > (Insert screenshots here after taking them)
