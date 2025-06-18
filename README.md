@@ -19,6 +19,8 @@ A weather app built using React that fetches and displays weather data using Ope
 
 ### Home Page
 ![](.src/screenshots/Screenshot-1.png)
+![](.src/screenshots/Screenshot-2.png)
+![](.src/screenshots/Screenshot-3.png)
 
 
 > (Insert screenshots here after taking them)
