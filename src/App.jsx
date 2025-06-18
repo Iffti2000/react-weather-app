@@ -88,7 +88,7 @@ const App = () => {
       <h2 className='text-2xl mt-2 font-semibold'>{weatherData.location}</h2>
 
       {/* humidity and wind speed */}
-      <div className='w-full max-w-md mt-7 flex flex-col md:flex-row items-center justify-between md:items-start'>
+       <div className='w-full max-w-md mt-7 flex flex-col md:flex-row items-center justify-between md:items-start'>
          <div className='flex flex-col items-center'>
           <WiHumidity className='text-3xl'/>
           <span className='text-lg font-medium'>{weatherData.humidity} %</span>
